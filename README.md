@@ -22,7 +22,7 @@
 <br>
 
 <details>
-<summary><b>▶︎ 2. 疎なIMUを用いた物理情報学習に基づく全身運動キネマティクス予測</b></summary>
+<summary><b>2. 疎なIMUを用いた物理情報学習に基づく全身運動キネマティクス予測</b></summary>
 
 ### Physics-Informed Learning for Human Whole-Body Kinematics Prediction via Sparse IMUs
 
@@ -40,7 +40,7 @@
 <br>
 
 <details>
-<summary><b>▶︎ 3. 姿勢評価のためのMediaPipe Poseの徹底分析：比較調査</b></summary>
+<summary><b>3. 姿勢評価のためのMediaPipe Poseの徹底分析：比較調査</b></summary>
 
 ### A Deep Dive into MediaPipe Pose for Postural Assessment: A Comparative Investigation
 
@@ -58,7 +58,7 @@
 <br>
 
 <details>
-<summary><b>▶︎ 4. 一般化可能な人体姿勢推定のための自己修正可能および適応型推論</b></summary>
+<summary><b>4. 一般化可能な人体姿勢推定のための自己修正可能および適応型推論</b></summary>
 
 ### Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation
 
@@ -76,7 +76,7 @@
 <br>
 
 <details>
-<summary><b>▶︎ 5. LSTM Pose Machines（動画向け時間・空間統合型姿勢推定）</b></summary>
+<summary><b>5. LSTM Pose Machines（動画向け時間・空間統合型姿勢推定）</b></summary>
 
 ### LSTM Pose Machines
 
