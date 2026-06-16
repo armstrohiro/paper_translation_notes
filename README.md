@@ -6,7 +6,7 @@
 ---
 
 <details>
-<summary><b>▶︎ 1. 拡張時系列畳み込みと半教師あり学習を用いたビデオにおける3D人体姿勢推定</b></summary>
+<summary><b> 1. 拡張時系列畳み込みと半教師あり学習を用いたビデオにおける3D人体姿勢推定</b></summary>
 
 ### 3D human pose estimation in video with temporal convolutions and semi-supervised training
 
