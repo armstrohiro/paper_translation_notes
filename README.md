@@ -6,7 +6,7 @@
 ---
 
 <details>
-<summary><b>▶︎ 1. 拡張時系列畳み込みと半教師あり学習を用いたビデオにおける3D人体姿勢推定</b></summary>
+<summary><b>1. 拡張時系列畳み込みと半教師あり学習を用いたビデオにおける3D人体姿勢推定</b></summary>
 
 ### 3D human pose estimation in video with temporal convolutions and semi-supervised training
 
@@ -22,7 +22,7 @@
 <br>
 
 <details>
-<summary><b>▶︎ 2. 疎なIMUを用いた物理情報学習に基づく全身運動キネマティクス予測</b></summary>
+<summary><b>2. 疎なIMUを用いた物理情報学習に基づく全身運動キネマティクス予測</b></summary>
 
 ### Physics-Informed Learning for Human Whole-Body Kinematics Prediction via Sparse IMUs
 
@@ -40,7 +40,7 @@
 <br>
 
 <details>
-<summary><b>▶︎ 3. 姿勢評価のためのMediaPipe Poseの徹底分析：比較調査</b></summary>
+<summary><b>3. 姿勢評価のためのMediaPipe Poseの徹底分析：比較調査</b></summary>
 
 ### A Deep Dive into MediaPipe Pose for Postural Assessment: A Comparative Investigation
 
@@ -58,7 +58,7 @@
 <br>
 
 <details>
-<summary><b>▶︎ 4. 一般化可能な人体姿勢推定のための自己修正可能および適応型推論</b></summary>
+<summary><b>4. 一般化可能な人体姿勢推定のための自己修正可能および適応型推論</b></summary>
 
 ### Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation
 
@@ -76,7 +76,7 @@
 <br>
 
 <details>
-<summary><b>▶︎ 5. LSTM Pose Machines（動画向け時間・空間統合型姿勢推定）</b></summary>
+<summary><b>5. LSTM Pose Machines（動画向け時間・空間統合型姿勢推定）</b></summary>
 
 ### LSTM Pose Machines
 
@@ -94,7 +94,7 @@
 
 
 <details>
-<summary><b>▶︎ 6. 下半身キネマティクスにおける姿勢推定モデルの比較：検証研究</b></summary>
+<summary><b>6. 下半身キネマティクスにおける姿勢推定モデルの比較：検証研究</b></summary>
 
 ### Comparison of different pose estimation models for lower-body kinematics: A validation study
 
@@ -112,7 +112,7 @@
 <br>
 
 <details>
-<summary><b>▶︎ 7. 歩行分析における手動マーキング、2D姿勢推定、3Dマーカーシステムの比較</b></summary>
+<summary><b>7. 歩行分析における手動マーキング、2D姿勢推定、3Dマーカーシステムの比較</b></summary>
 
 ### Gait analysis comparison between manual marking, 2D pose estimation algorithms, and 3D marker-based system
 
@@ -130,7 +130,7 @@
 <br>
 
 <details>
-<summary><b>▶︎ 8. パーキンソン病患者におけるヒト姿勢推定を用いた歩行パラメータの評価：正面と側面の視点の比較</b></summary>
+<summary><b>8. パーキンソン病患者におけるヒト姿勢推定を用いた歩行パラメータの評価：正面と側面の視点の比較</b></summary>
 
 ### Assessment of temporospatial and kinematic gait parameters using human pose estimation in patients with Parkinson’s disease: A comparison between near-frontal and lateral views
 
